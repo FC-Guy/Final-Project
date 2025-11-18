@@ -86,6 +86,8 @@ Daily Boost is a simple mobile app that gives users one inspirational quote each
 
 # Wireframes
 
+![IMG_0809](https://github.com/user-attachments/assets/4ec7a141-4796-4579-95dc-6635e80e00bb)
+
 Simple layout:
 - Home: quote text, mood buttons, save button
 - Favorites: list of saved quotes
