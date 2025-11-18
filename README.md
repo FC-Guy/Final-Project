@@ -130,15 +130,3 @@ Local storage (no network requests required)
 
 ---
 
-## Parse / API Snippets (if needed later)
-
-```swift
-// Example API request for daily quote
-func fetchQuote() {
-    guard let url = URL(string: "https://zenquotes.io/api/today") else { return }
-    URLSession.shared.dataTask(with: url) { data, _, _ in
-        if let data = data {
-            let quote = try? JSONDecoder().decode([Quote].self, from: data)
-        }
-    }.resume()
-}
