@@ -94,6 +94,9 @@ Simple layout:
 - Favorites: list of saved quotes
 - History: list of moods by day
 
+  <img width="1536" height="1024" alt="mockup" src="https://github.com/user-attachments/assets/2da162cc-d690-4c74-a24e-6671bcda57b7" />
+
+
 ---
 
 # Schema
