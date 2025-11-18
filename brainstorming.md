@@ -1,4 +1,4 @@
-# Unit 5 – Group Activity 1: App Idea Brainstorming
+# Unit 5 – Activity 1: App Idea Brainstorming
 
 ## Step 1 – Brainstorming Ideas
 
@@ -16,6 +16,9 @@ Students add classes and tasks. Shows a list of homework/exams with due dates an
 
 ### Idea 5 – Habit Checklist
 Users pick daily habits and mark them as done. Shows streaks and simple progress.
+
+### Idea 6 – Water Reminder & Tracker
+Users log the cups of water they drink each day. The app tracks daily progress toward a hydration goal and shows simple weekly progress. Optional reminders help users stay hydrated throughout the day.
 
 ---
 
